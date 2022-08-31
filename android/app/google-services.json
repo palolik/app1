@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945234979214",
+    "project_id": "logsign-ab3ae",
+    "storage_bucket": "logsign-ab3ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945234979214:android:a3f0ba4f0093739e725cdf",
+        "android_client_info": {
+          "package_name": "com.example.logsign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945234979214-aohtrmajic73hp3umg97jrr3aes79b3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh6Nw0EkONYZxJd6N31ix6TFpi0ezO2Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945234979214-aohtrmajic73hp3umg97jrr3aes79b3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
